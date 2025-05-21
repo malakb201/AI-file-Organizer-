@@ -1,0 +1,12 @@
+File Organizer Tool is a fully Open Source
+Programmed in Python by Zeeshan 
+
+
+--------Work--------
+tool is very professional to detect files from folder and put then in there proper categories Example: 
+in download folder we download many things and mostly forgot to categories them here that tool came in handy,
+Tool is very simple to use 
+powered with AL function
+Can use OpenAI for better performence 
+
+tool version 1.0.0
